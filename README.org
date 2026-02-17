@@ -2,9 +2,10 @@
 
 Binary search tree library for Common Lisp
 
-|---------+--------------------------------------------|
-| source  | git:https://codeberg.org/glv/bst.git      |
-| commit  | 8545aed                                    |
-| systems | bst                                        |
-|---------+--------------------------------------------|
+|---------+--------------------------------------|
+| source  | git:https://codeberg.org/glv/bst.git |
+| commit  | 07db35f                              |
+| systems | bst                                  |
+|---------+--------------------------------------|
+---------------------------|
 
